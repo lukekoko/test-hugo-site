@@ -1,5 +1,4 @@
-# Site settings
-baseURL = "https://master.d1hkkgtzffdqu8.amplifyapp.com/"
-languageCode = "en-US"
+baseURL = "https://example.org/"
+languageCode = "en-us"
 title = "helloworld"
 theme = "ananke"

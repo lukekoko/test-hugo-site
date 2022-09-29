@@ -1,6 +1,3 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "hugo-split-theme"]
-	path = hugo-split-theme
-	url = https://github.com/escalate/hugo-split-theme.git
